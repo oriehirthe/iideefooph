@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maicaeyae.arminb.me/sitemap.xml
